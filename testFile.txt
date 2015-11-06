@@ -3,3 +3,5 @@ Line 2
 Line 3
 Line 4
 Here are new line created in master branch
+NEW CHANGES
+AND HERE IS ONE MORE CHANGE FROM SECOND BRANCH
